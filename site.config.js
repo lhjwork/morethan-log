@@ -12,19 +12,27 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `hanjin(한진) notion cms blog`,
       href: "https://github.com/lhjwork/morethan-log",
+    },
+    {
+      name: `Sourcingroot`,
+      href: "https://www.sourcingroot.co.kr/",
+    },
+    {
+      name: `Seamansclub-news`,
+      href: "https://seamansclub.com/seamansclub-news/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Hanjin notion cms blog!!",
+    description: "welcome to hanjin blog!!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://www.hj-s.site",
   since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
