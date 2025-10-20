@@ -6,6 +6,10 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
+          <meta
+            name="google-adsense-account"
+            content="ca-pub-1861714561784170"
+          ></meta>
           <link rel="icon" href="/favicon.ico" />
           <link
             rel="apple-touch-icon"
